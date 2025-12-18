@@ -1,0 +1,7 @@
+{
+  "name": "Gestalt Particles",
+  "description": "A real-time, gesture-controlled 3D particle system using MediaPipe Hand Landmarker and custom GLSL shaders for high-performance morphing and explosion effects.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
